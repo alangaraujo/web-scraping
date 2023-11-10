@@ -2,12 +2,6 @@
 
 This API is intended to make a raw access to public repositories from a Git Provider (i.e GitHub) and collect information from it's files.
 
-## Heroku Live Application
-
-There is a running application under Heroku, available at:
-
-> https://web-scraping-trustly.herokuapp.com/swagger-ui.html
-
 ## How to run
 
 ### Docker
