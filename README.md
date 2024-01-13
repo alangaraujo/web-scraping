@@ -1,6 +1,8 @@
+# Deprecated due to GitHub front-end page changes - For evaluating purposes only
+
 # Web Scraping API
 
-This API is intended to make a raw access to public repositories from a Git Provider (i.e GitHub) and collect information from its files.
+This API was intended to make a raw access to public repositories from a Git Provider (i.e GitHub) and collect information through front-end http file calling.
 
 ## How to run
 
