@@ -1,4 +1,5 @@
-# Deprecated due to GitHub front-end page changes -  For evaluating purposes only
+# Deprecated due to GitHub front-end page changes  
+# For evaluating purposes only
 
 # Web Scraping API
 
